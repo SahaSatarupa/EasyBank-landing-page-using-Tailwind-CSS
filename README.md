@@ -14,3 +14,4 @@ User should be able to:
 * Mobile-first approach
 * Javascript (is only used for the mobile navigation toggle)
 ## Challenge link -->  https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN
+## live link -->  https://easy-bank-landing-page-using-tailwind-css.vercel.app/
